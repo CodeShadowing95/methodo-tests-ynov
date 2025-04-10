@@ -1,0 +1,9 @@
+[ {
+  "id" : 6,
+  "nom" : "Stylo",
+  "prix" : 2.5
+}, {
+  "id" : 7,
+  "nom" : "Cahier",
+  "prix" : 3.5
+} ]
